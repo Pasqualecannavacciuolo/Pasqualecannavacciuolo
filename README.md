@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pasquale Cannavacciuolo</h1>
 <h3 align="center">A passionate developer from Italy</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pasqualecannavacciuolo" alt="pasqualecannavacciuolo" /></a> </p>
-
 - 🔭 I’m currently working on **Java Accademy**
 
 - 🌱 I’m currently learning **Java - JDBC -  Maven - Javascript - Angular - React - Hibernate - Docker - SpringBoot**
