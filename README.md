@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Java Accademy**
 
-- 🌱 I’m currently learning **Java - Angular - React - Hibernate - Docker - SpringBoot**
+- 🌱 I’m currently learning **Java - JDBC -  Maven - Javascript - Angular - React - Hibernate - Docker - SpringBoot**
 
 - 📫 How to reach me **p.cannavacciuolo@icloud.com**
 
