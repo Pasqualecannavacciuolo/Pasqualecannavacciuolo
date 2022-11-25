@@ -1,8 +1,6 @@
 <h1 align="center">Ciao 👋, sono Pasquale Cannavacciuolo</h1>
 <h3 align="center">Uno sviluppatore junior curioso che ha voglia di imparare cose nuove</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pasqualecannavacciuolo" alt="pasqualecannavacciuolo" /></a> </p>
-
 - 🔭 Attualmente lavoro come Sviluppatore Junior presso **Eustema s.p.a**
 
 - 🌱 Al momento sto imparando: **Docker - SpringBoot - VM**
