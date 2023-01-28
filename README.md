@@ -48,6 +48,6 @@
 
 <br clear="both">
 
-![Snake animation](https://github.com/Pasqualecannavacciuolo/Pasqualecannavacciuolo/blob/output/snake.svg)
+![Snake animation](https://github.com/Pasqualecannavacciuolo/Pasqualecannavacciuolo/blob/output/github-snake.svg%3Fpalette%3Dgithub-light%20dist/github-snake-dark.svg)
 
 ###
