@@ -6,10 +6,10 @@
 ### <div align="center">Ciao sono Pasquale e sono uno sviluppatore 👨‍💻 </div>  
   
 
-- 🔭 Al momento sto realizzando una dashboard che si può adattare a vari contesti di utilizzo  
+- 🔭 [Personale] Sto realizzando una dashboard che si può adattare a vari contesti di utilizzo  
   
 
-- 🌱 Al momento sto approfondendo NodeJS - ReactJS - PostgreSQL - Docker  
+- 🌱 [Studio] Al momento sto approfondendo Rust - NodeJS - ReactJS - PostgreSQL - Docker  
   
 
 - ⚡ Fun fact: Tab > spazi  
