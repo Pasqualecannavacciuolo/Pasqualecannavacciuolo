@@ -8,7 +8,7 @@
 
 ### <div align="center">Ciao sono Pasquale e sono uno sviluppatore 👨‍💻 </div>  
   
-
+<div style="background-color: green">
 - 🔭 [Personale] Sto realizzando una dashboard che si può adattare a vari contesti di utilizzo  
   
 
@@ -16,7 +16,7 @@
   
 
 - ⚡ Fun fact: Tab > spazi  
-  
+</div>  
 
 <br/>  
 
