@@ -2,9 +2,7 @@
 <img src="https://media.giphy.com/media/vqxviVfqGAa14SgeiC/giphy.gif" align="center" height="300" width="300" />
 </div>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/logo.svg" width="300" height="100">
-</p>	
+	
 <img src="https://github.com/Pasqualecannavacciuolo/Pasqualecannavacciuolo/blob/main/waves.svg" width="100%" height="150">
 
   
