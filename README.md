@@ -1,13 +1,9 @@
 <div align="center">
 <img src="https://media.giphy.com/media/vqxviVfqGAa14SgeiC/giphy.gif" align="center" height="300" width="300" />
 </div>
-
-	
-<img src="https://github.com/Pasqualecannavacciuolo/Pasqualecannavacciuolo/blob/main/waves.svg" width="100%" height="150">
-
   
 
-### <div align="center">Ciao sono Pasquale e sono uno sviluppatore 👨‍💻 </div>  
+### <div align="center"><h1>Ciao sono Pasquale e sono uno sviluppatore 👨‍💻 </h1></div>  
   
 
 - 🔭 [Personale] Sto realizzando una dashboard che si può adattare a vari contesti di utilizzo  
