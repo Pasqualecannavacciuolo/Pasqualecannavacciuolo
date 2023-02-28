@@ -8,7 +8,12 @@
 
 ### <div align="center">Ciao sono Pasquale e sono uno sviluppatore 👨‍💻 </div>  
   
-<div>
+<div class="green">
+  <style>
+    .green {
+      background-color: green;
+    }
+  </style>
 - 🔭 [Personale] Sto realizzando una dashboard che si può adattare a vari contesti di utilizzo  
   
 
