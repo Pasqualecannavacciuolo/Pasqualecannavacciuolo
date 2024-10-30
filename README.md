@@ -6,10 +6,10 @@
 ### <div align="center"><h1>Ciao sono Pasquale e sono uno sviluppatore 👨‍💻 </h1></div>  
   
 
-- 🔭 [Personale] Sto realizzando una dashboard che si può adattare a vari contesti di utilizzo  
+- 🔭 [Personale] Sto realizzando un sito per trovare lavoro utilizzando Laravel e per la parte frontend Blade (non sto usando ancora Livewire o librerie Javascript per il frontend)  
   
 
-- 🌱 [Studio] Al momento sto approfondendo Rust - NodeJS - ReactJS - PostgreSQL - Docker  
+- 🌱 [Studio] Al momento sto approfondendo PHP & Laravel e tutto il suo ecosistema 
   
 
 - ⚡ Fun fact: Tab > spazi  
